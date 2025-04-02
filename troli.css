@@ -16,7 +16,7 @@ p{
 
 #def{
   font-style: italic;
-  text-align: center;
+  text-align: horizontal;
 }
 
 #jaratviszonylatok{
@@ -50,7 +50,7 @@ p{
   z-index: 99; 
   border: none;
   outline: none;
-  background-color: red;
+  background-color: #555;
   color: white;
   cursor: pointer;
   padding: 10px;
